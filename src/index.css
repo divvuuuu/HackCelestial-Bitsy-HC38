@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+/* @font-face {
+  font-family: "SF Pro Text";
+  src: url("/public/matter-light.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "SF Pro Text";
+  src: url("/public/matter-regular.ttf");
+  font-weight: 500;
+} */
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --paragraph-medium: "SF Pro Text";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+  --paragraph-medium-size: 14px;
+  --font-size-mid: 17px;
+  --font-size-29xl: 48px;
+  --font-size-10xl: 29px;
+  --font-size-19xl: 38px;
+  --font-size-5xl: 24px;
+  --font-size-lgi: 19px;
+
+  /* Colors */
+  --color-whitesmoke: #f7fafc;
+  --color-lightsteelblue: #8dafd5;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-slategray-100: #718096;
+  --grey-500: #67728a;
+  --blue-600: #0059c8;
+  --grey-700: #414d63;
+  --red-600: #bd002a;
+  --grey-300: #cfd9e0;
+  --color-lightgray-100: #cbd5e0;
+  --color-dimgray-100: #5e5e5e;
+  --color-dimgray-200: #4a5568;
+  --color-gray: rgba(0, 0, 0, 0.65);
+
+  /* Gaps */
+  --gap-5xs: 8px;
+  --gap-11xs: 2px;
+  --gap-320xl: 339px;
+  --gap-smi: 13px;
+  --gap-9xs: 4px;
+  --gap-798xl: 817px;
+  --gap-6xl: 25px;
+
+  /* Paddings */
+  --padding-base-2: 15.2px;
+  --padding-213xl: 232px;
+  --padding-214xl: 233px;
+  --padding-lg: 18px;
+  --padding-8xs: 5px;
+  --padding-7xs: 6px;
+  --padding-xs: 12px;
+  --padding-5xs: 8px;
+  --padding-4xs: 9px;
+  --padding-xl: 20px;
+  --padding-mini: 15px;
+  --padding-base: 16px;
+  --padding-31xl: 50px;
+  --padding-12xs: 1px;
+  --padding-6xl: 25px;
+  --padding-90xl: 109px;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-xs: 12px;
+  --br-7xs: 6px;
+
+  /* Effects */
+  --inner-shadow-default: 0px 2px 0px rgba(231, 235, 238, 0.2) inset;
+}
+

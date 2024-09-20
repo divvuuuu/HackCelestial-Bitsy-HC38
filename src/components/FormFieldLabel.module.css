@@ -1,0 +1,25 @@
+.label,
+.required {
+  position: relative;
+  letter-spacing: -0.15px;
+  line-height: 20px;
+}
+.label {
+  font-weight: 500;
+}
+.required {
+  font-size: var(--paragraph-medium-size);
+  color: var(--grey-500);
+  display: none;
+}
+.formfieldlabel {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-slategray-100);
+  font-family: var(--font-inter);
+}
