@@ -10,6 +10,8 @@ import CollegeLogin from "./pages/CollegeLogin";
 import StudentLogin from "./pages/StudentLogin";
 import AdministraterLogin from "./pages/AdministraterLogin";
 
+//hello
+
 
 
 // function MyComponent() {
