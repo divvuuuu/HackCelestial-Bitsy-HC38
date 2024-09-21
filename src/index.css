@@ -94,4 +94,33 @@ body {
   /* Effects */
   --inner-shadow-default: 0px 2px 0px rgba(231, 235, 238, 0.2) inset;
 }
-
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+body {
+  	margin: 0; line-height: normal;
+}
+:root {
+  	
+  	/* fonts */
+  	--font-inter: Inter;
+  	--font-josefin-sans: 'Josefin Sans';
+  	--font-inknut-antiqua: 'Inknut Antiqua';
+  	
+  	/* font sizes */
+  	--font-size-base: 16px;
+  	--font-size-5xl: 24px;
+  	
+  	/* Colors */
+  	--color-white: #fff;
+  	--color-silver: #b9b9b9;
+  	--color-darkslategray: #323232;
+  	--color-black: #000;
+  	--color-whitesmoke: #efefef;
+  	--color-darkslateblue: #0e5499;
+  	
+  	/* Paddings */
+  	--padding-base: 16px;
+  	--padding-xl: 20px;
+  	
+}

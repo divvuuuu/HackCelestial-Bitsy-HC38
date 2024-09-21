@@ -12,6 +12,12 @@ const StudentLogin = () => {
     navigate("/");
   }, [navigate]);
 
+  const gotomainpage = useCallback(() => {
+    navigate("/mainpage");
+  }, [navigate]);
+
+  
+
   return (
     <div className={styles.studentLogin}>
       <div className={styles.bottom}>
@@ -141,10 +147,11 @@ const StudentLogin = () => {
                   </div>
                 </div>
               </div>
-              <div className={styles.loginButtonArea}>
+              <div className={styles.loginButtonArea} onClick={gotomainpage}>
                 <div className={styles.xl1}>Forgot Password?</div>
               </div>
-              <Button children="LOGIN" rightIcon="/lefticon.svg" />
+              {/* <Button  children="LOGIN" rightIcon="/lefticon.svg"  /> */}
+              <button onClick={gotomainpage} className="Button_button__tPiKR "><img class="Button_leftIcon__7vlyw" alt="" src="/lefticon.svg"/><div class="Button_children__iC0WB">LOGIN</div><img class="Button_leftIcon__7vlyw" alt="" src="/lefticon.svg"/></button>
             </form>
           </div>
         </div>

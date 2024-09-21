@@ -10,6 +10,9 @@ const AdministraterLogin = () => {
   const onBackTextClick = useCallback(() => {
     navigate("/");
   }, [navigate]);
+  const gotoadmin = useCallback(() => {
+    navigate("/admin");
+  }, [navigate]);
 
   return (
     <form className={styles.administraterLogin}>
@@ -128,6 +131,8 @@ const AdministraterLogin = () => {
       <div className={styles.password}>Password</div>
       <div className={styles.required}>(required)</div>
       <div className={styles.xl1}>Forgot Password?</div>
+      <div onClick={gotoadmin}>
+
       <Button
         children="LOGIN"
         propFontSize="20px"
@@ -140,6 +145,7 @@ const AdministraterLogin = () => {
         buttonBorder="none"
         buttonFlex="unset"
       />
+      </div>
       <main className={styles.right5}>
         <section className={styles.right6}>
           <div className={styles.tableCell} />

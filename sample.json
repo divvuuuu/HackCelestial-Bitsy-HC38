@@ -1,0 +1,419 @@
+{
+	"fields": {
+		"university": "University of Mumbai",
+		"exam": "B.E. (with credits) Regular CBCS (Computer Engineering) F.E. C-Scheme Sem I [1T01831]",
+		"result_declaration_date": "18 Jul 2024",
+		"subjects": [
+			{
+				"code": "58651",
+				"name": "Engineering Mathematics - I",
+				"theory_marks": {
+					"ua": 80,
+					"ca": 32
+				},
+				"practical_marks": {
+					"ua": 20,
+					"ca": 8
+				},
+				"total_marks": {
+					"ua": 100,
+					"ca": 0
+				}
+			},
+			{
+				"code": "58652",
+				"name": "Engineering Physics - I",
+				"theory_marks": {
+					"ua": 60,
+					"ca": 24
+				},
+				"practical_marks": {
+					"ua": 15,
+					"ca": 6
+				},
+				"total_marks": {
+					"ua": 75,
+					"ca": 0
+				}
+			},
+			{
+				"code": "58655",
+				"name": "Engineering Chemistry - I",
+				"theory_marks": {
+					"ua": 60,
+					"ca": 24
+				},
+				"practical_marks": {
+					"ua": 15,
+					"ca": 6
+				},
+				"total_marks": {
+					"ua": 75,
+					"ca": 0
+				}
+			},
+			{
+				"code": "58653",
+				"name": "Engineering Mechanics",
+				"theory_marks": {
+					"ua": 80,
+					"ca": 32
+				},
+				"practical_marks": {
+					"ua": 20,
+					"ca": 8
+				},
+				"total_marks": {
+					"ua": 100,
+					"ca": 0
+				}
+			},
+			{
+				"code": "58654",
+				"name": "Basic Electrical Engineering",
+				"theory_marks": {
+					"ua": 80,
+					"ca": 32
+				},
+				"practical_marks": {
+					"ua": 20,
+					"ca": 8
+				},
+				"total_marks": {
+					"ua": 100,
+					"ca": 0
+				}
+			},
+			{
+				"code": "FEL101",
+				"name": "Engineering Physics - I (TW)",
+				"theory_marks": {},
+				"practical_marks": {
+					"twca": 25,
+					"to": 10,
+					"ca": 25,
+					"co": 1
+				},
+				"total_marks": {
+					"ua": 0,
+					"ca": 0
+				}
+			},
+			{
+				"code": "FEL102",
+				"name": "Engineering Chemistry - I (TW)",
+				"theory_marks": {},
+				"practical_marks": {
+					"twca": 25,
+					"to": 10,
+					"ca": 25,
+					"co": 0
+				},
+				"total_marks": {
+					"ua": 0,
+					"ca": 0
+				}
+			},
+			{
+				"code": "FEL103",
+				"name": "Engineering Mechanics (TW/OR/PR)",
+				"theory_marks": {},
+				"practical_marks": {
+					"orca": 25,
+					"twca": 25,
+					"to": 10,
+					"co": 0
+				},
+				"total_marks": {
+					"ua": 0,
+					"ca": 0
+				}
+			},
+			{
+				"code": "FEL104",
+				"name": "Basic Electrical Engineering (TW/OR/PR)",
+				"theory_marks": {},
+				"practical_marks": {
+					"orca": 25,
+					"twca": 25,
+					"to": 0,
+					"co": 0
+				},
+				"total_marks": {
+					"ua": 0,
+					"ca": 0
+				}
+			},
+			{
+				"code": "FEL105",
+				"name": "Basic Workshop Practice - I",
+				"theory_marks": {},
+				"practical_marks": {
+					"twca": 50,
+					"to": 20,
+					"co": 0
+				},
+				"total_marks": {
+					"ua": 50,
+					"ca": 0
+				}
+			}
+		],
+		"students": [
+			{
+				"seat_number": "5184875",
+				"name": "BHANDARI ARYAN NILESH KUMAR",
+				"mother_name": "KHYATIBEN",
+				"marks": [
+					{
+						"code": "FEC101",
+						"paper": 1,
+						"total_marks": 132,
+						"theory_marks": 10,
+						"practical_marks": 42,
+						"credit": 4,
+						"grade": "D",
+						"grade_points": 6
+					},
+					{
+						"code": "FEL101",
+						"paper": 2,
+						"total_marks": 13,
+						"theory_marks": 13,
+						"practical_marks": 0,
+						"credit": 2,
+						"grade": "E",
+						"grade_points": 5
+					},
+					{
+						"code": "FEL102",
+						"paper": 3,
+						"total_marks": 126,
+						"theory_marks": 12,
+						"practical_marks": 38,
+						"credit": 2,
+						"grade": "D",
+						"grade_points": 6
+					},
+					{
+						"code": "FEL103",
+						"paper": 4,
+						"total_marks": 20,
+						"theory_marks": 20,
+						"practical_marks": 0,
+						"credit": 1,
+						"grade": "O",
+						"grade_points": 10
+					},
+					{
+						"code": "FEL104",
+						"paper": 5,
+						"total_marks": 37,
+						"theory_marks": 7,
+						"practical_marks": 30,
+						"credit": 1,
+						"grade": "O",
+						"grade_points": 10
+					},
+					{
+						"code": "FEL105",
+						"paper": 6,
+						"total_marks": 21,
+						"theory_marks": 21,
+						"practical_marks": 0,
+						"credit": 2,
+						"grade": "A",
+						"grade_points": 9
+					}
+				],
+				"total_credits": 18,
+				"final_cgpi": 6.39,
+				"final_grade": "Successful"
+			},
+			{
+				"seat_number": "5184876",
+				"name": "CHAURASIYA MONIKA",
+				"mother_name": "GANGAPRASAD RAMLALI",
+				"marks": [
+					{
+						"code": "FEC101",
+						"paper": 1,
+						"total_marks": 142,
+						"theory_marks": 12,
+						"practical_marks": 54,
+						"credit": 4,
+						"grade": "D",
+						"grade_points": 6
+					},
+					{
+						"code": "FEL101",
+						"paper": 2,
+						"total_marks": 0,
+						"theory_marks": 0,
+						"practical_marks": 0,
+						"credit": 2,
+						"grade": "AB",
+						"grade_points": 0
+					},
+					{
+						"code": "FEL102",
+						"paper": 3,
+						"total_marks": 124,
+						"theory_marks": 13,
+						"practical_marks": 37,
+						"credit": 2,
+						"grade": "E",
+						"grade_points": 5
+					},
+					{
+						"code": "FEL103",
+						"paper": 4,
+						"total_marks": 25,
+						"theory_marks": 25,
+						"practical_marks": 0,
+						"credit": 1,
+						"grade": "O",
+						"grade_points": 10
+					},
+					{
+						"code": "FEL104",
+						"paper": 5,
+						"total_marks": 47,
+						"theory_marks": 25,
+						"practical_marks": 22,
+						"credit": 1,
+						"grade": "C",
+						"grade_points": 7
+					},
+					{
+						"code": "FEL105",
+						"paper": 6,
+						"total_marks": 33,
+						"theory_marks": 21,
+						"practical_marks": 12,
+						"credit": 2,
+						"grade": "B",
+						"grade_points": 8
+					}
+				],
+				"total_credits": 18,
+				"final_cgpi": 7.00,
+				"final_grade": "Successful"
+			},
+			{
+				"seat_number": "5184877",
+				"name": "CHOUGLE AYESHABI IRFAN",
+				"mother_name": "HEENA IRFAN CHOUGLE",
+				"marks": [
+					{
+						"code": "FEC101",
+						"paper": 1,
+						"total_marks": 112,
+						"theory_marks": 8,
+						"practical_marks": 20,
+						"credit": 4,
+						"grade": "F",
+						"grade_points": 0
+					},
+					{
+						"code": "FEL101",
+						"paper": 2,
+						"total_marks": 0,
+						"theory_marks": 0,
+						"practical_marks": 0,
+						"credit": 2,
+						"grade": "AB",
+						"grade_points": 0
+					},
+					{
+						"code": "FEL102",
+						"paper": 3,
+						"total_marks": 11,
+						"theory_marks": 4,
+						"practical_marks": 15,
+						"credit": 2,
+						"grade": "F",
+						"grade_points": 0
+					},
+					{
+						"code": "FEL103",
+						"paper": 4,
+						"total_marks": 20,
+						"theory_marks": 20,
+						"practical_marks": 0,
+						"credit": 1,
+						"grade": "F",
+						"grade_points": 0
+					},
+					{
+						"code": "FEL104",
+						"paper": 5,
+						"total_marks": 0,
+						"theory_marks": 0,
+						"practical_marks": 0,
+						"credit": 1,
+						"grade": "AB",
+						"grade_points": 0
+					},
+					{
+						"code": "FEL105",
+						"paper": 6,
+						"total_marks": 0,
+						"theory_marks": 0,
+						"practical_marks": 0,
+						"credit": 2,
+						"grade": "AB",
+						"grade_points": 0
+					}
+				],
+				"total_credits": 18,
+				"final_cgpi": null,
+				"final_grade": "Unsuccessful"
+			}
+		],
+		"remarks": {
+			"0.229A": "Female",
+			"e": "0.5042A / 0.5043A / 0.5044A",
+			"*": "-5045A",
+			"RR": "Reserved",
+			"--": "Fails in Theory or Practical",
+			"RPV": "PROVISIONAL Eligible",
+			"RCC": "0.5050",
+			"AB": "Absent",
+			"F": "Unsuccessful",
+			"PSU": null,
+			"NULL": "NULL \u0026 VOID",
+			"G": "Grade",
+			"C*G": "Gradepoints",
+			"C": "credits",
+			"CP": "credit points",
+			"CG": "sum of product of credits \u0026 grades",
+			"Internal Marks": "Provisional as per R.8668",
+			"äC": "sum of credit points",
+			"GPA": "äcg / ac",
+			"MARKS": {
+				"0 to 39.99": "F",
+				"40 to 44.99": "E",
+				"45 to 49.99": "D",
+				"50 to 59.99": "C",
+				"60 to 69.99": "B",
+				"70 to 74.99": "A",
+				"75 to 79.99": "о",
+				"80 to 100": null
+			},
+			"GRADE POINT": {
+				"0.00": "F",
+				"4.00": "E",
+				"5.00": "D",
+				"6.00": "C",
+				"7.00": "B",
+				"8.00": "A",
+				"9.00": "о",
+				"10.00": null
+			}
+		},
+		"page_number": 1,
+		"generated_on": "20XX-XX-XX XX:XX:XX"
+	},
+	"text": "University of Mumbai , Mumbai\nOFFICE REGISTER OF THE B.E. ( with credits ) Regular CBCS ( Computer Engineering ) F.E. C - Scheme Sem I [ 1T01831 ] HELD IN Summer 2024 Result Decleration Date : 18 Jul 2024\n58651 - Engineering Mathematics - I : THUA 80/32 ThCA 20/8 100/0 58652 - Engineering Physics - I : ThUA 60/24 ThCA 15/6 75/0 | 58655 - Engineering Chemistry - I : ThUA 60/24 ThCA 15/6 75/0 |\n58653 - Engineering Mechanics : ThUA 80/32 ThCA 20/8 100/0 | 58654 - Basic Electrical Engineering : ThUA 80/32 ThCA 20/8 100/0 | FEL101 - Engineering Physics - I ( TW ) : TwCA 25/10 25/01\nFEL102 - Engineering Chemistry - I ( TW ) : TwCA 25/10 25/0 FEL103 - Engineering Mechanics ( TW / OR / PR ) : ORCA 25/10 TwCA 25/10 50/0 FEL104 - Basic Electrical Engineering ( TW / OR / PR ) : ORCA 25/10 Tw\nFEL105 - Basic Workshop Practice - I : TWCA 50/20 50/0 FEC101 - Engineering Mathematics - I Term Work : TwCA 25/10 25/0\nSEAT NAME OF THE CANDIDATE | PAPER 1 PAPER 2 PAPER PAPER 4 | PAPER 5 PAPER 6 RESULT\nNO . Mother Name Total Totall Total | Total Totall Total CR C⭑G\nPRN . CR GR GP C * G CR GR GP C * G CR GR GP C * G CR GR GP C * G CRI GR GP C * G CR GR GP C * G SGPI GRADE\nCENTRE - COLLEGE PAPER 7 PAPER 8 . PAPER 9 . PAPER 10 PAPER 11\nTotal Totall Totall Total Total\nCR GR GP C⭑G CR GR GP C⭑G ICR GR GP C * G CR GR GP C * G CRI GR GP C * G\n5184875 BHANDARI ARYAN NILESH KUMAR 158651 | FEC101 158652 FEL101 158655 | FEL102 Successful\nKHYATIBEN 132+ 10+ 42 | -- 13+ 13 126+ 12 38 20+ 20 130+ 7+ 37 21+ 21 18.00 115.00\n2023016402116453 13.00 P 4.00 12.00 11.00 D 6.00 6.00 12.00 D 6.00 12.00 10.50 of 10.00 5.00 12.00 E 5.00 10.00 10.50 O 10.00 5.00 | 6.39\n( 1 ) Mumbai ( 10 ) 158653 | FEL103 158654 | FEL104 FEL105\n135 16 51 25+ 47 144+ 12 56 21+ 39 | -- 40+ 40\n22+ 18+\n13.00 D 6.00 18.00 11.00 o 10.00 10.00 13.00 D 6.00 18.00 11.00 A 9.00 9.00 11.00 O 10.00 10.00\nTotal Credit 18.00 FINAL CGPI FINAL GRADE\n5184876 CHAURASIYA MONIKA 158651 FEC101 158652 FEL101 158655 FEL102 Successful\nGANGAPRASAD RAMLALI 142+ 12+ 54 24+ 24 124+ 13+ 37 21+ 21 136+ 11+ 47 25+ 25 18.00 126.00\n2023016402076956 13.00 D 6.00 18.00 1.00 0 10.00 10.00 12.00 E 5.00 10.00 10.50 O 10.00 5.00 12.00 C 7.00 14.00 0.50 0 10.00 5.00 | 7.00\n( ) - ( 10 ) 158653 FEL103 158654 FEL104 | FEL105\n133 + 1 13+ 46 | -- 25+ 47 153+ 9+ 62 22+ 35 40+ 40\n| -- 22+ 13+\n13.00 E 5.00 15.00 11.00 O 10.00 10.00 13.00 C 7.00 21.00 11.00 B 8.00 8.00 11.00 O 10.00 10.001\nTotal Credit 18.00 FINAL CGPI FINAL GRADE --\n5184877 CHOUGLE AYESHABI IRFAN 158651 FEC101 158652 FEL101 158655 FEL102 Unsuccessful\nHEENA IRFAN CHOUGLE 112F 8+ 20 | -- 18+ 18 11F 4F 15 20+ 20 117F 7+ 24 | -- 22 + 1 22 18.00-\n2023016402116414 13.00 F 0.00 0.00 11.00 B 8.00 8.00 12.00 F 0.00 0.00 10.50 o 10.00 5.00 12.00 F 0.00 0.00 10.50 O 10.00 5.00 |\n( 1 ) Mumbai ( 10 ) 158653 | FEL103 158654 FEL104 FEL105\n5F 9+ 14 | -- 24+ 47 10F 4F 14 21+ 33 38+ 38\n23+ 12+\n13.00 F 0.00 0.00 11.00 0 10.00 10.00 13.00 F 0.00 0.00 11.00 C 7.00 7.00 11.00 A 9.00 9.00\nTotal Credit 18.00 FINAL CGPI -- FINAL GRADE\n/ FEMALE , # 0.229A , e 0.5042A / 0.5043A / 0.5044A , * - 5045A , RR - RESERVED , -- : Fails in Theory or Practical , RPV PROVISIONAL Eligible , RCC 0.5050 , AB - ABSENT , F- UNSUCCESSFUL , PSU\nNULL - NULL \u0026 VOID , G : Grade C * G : Gradepoints C : credits CP : credit points äCG : sum of product of credits \u0026 grades , Internal Marks are Provisional as per R.8668\näC : sum of credit points GPA : äcg / ac\nMARKS : 0 to 39.99 40 to 44.99 45 to 49.99 50 to 59.99 60 to 69.99 70 to 74.99 75 to 79.99 80 to 100\nGRADE : F E D C B A о\nGRADE POINT : 0.00 4.00 5.00 6.00 7.00 8.00 9.00 10.00\n20/7/2024 Page No.1"
+}

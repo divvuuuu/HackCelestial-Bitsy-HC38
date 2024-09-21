@@ -3,6 +3,22 @@
   position: relative;
   font-family: var(--font-inter);
 }
+.Button_button__tPiKR{
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base-2) var(--padding-213xl) var(--padding-base-2) var(--padding-214xl);
+  background-color: var(--color-lightsteelblue);
+  border-radius: var(--br-xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-5xs);
+  position: absolute;
+  top: 612.6px;
+  left: 95px;
+  border: none;
+}
 .xl {
   margin: 0;
   font-size: var(--font-size-29xl);

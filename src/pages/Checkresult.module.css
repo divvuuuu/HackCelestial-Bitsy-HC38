@@ -1,0 +1,253 @@
+.headerIcon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.academialink {
+    position: absolute;
+    top: 5px;
+    left: 175px;
+    display: inline-block;
+    width: 460px;
+    height: 113px;
+}
+.resultsMadeEasy {
+    position: absolute;
+    top: 104px;
+    left: 251px;
+    font-size: var(--font-size-5xl);
+    font-family: var(--font-josefin-sans);
+    display: inline-block;
+    width: 245px;
+    height: 29px;
+}
+.misLogo1 {
+    position: absolute;
+    top: 28px;
+    left: 44px;
+    width: 108px;
+    height: 105px;
+    object-fit: cover;
+}
+.header {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1464px;
+    height: 160px;
+    font-size: 48px;
+    background-color: var(--color-darkslateblue);
+    color: var(--color-white);
+    font-family: var(--font-inknut-antiqua);
+}
+.instanceChild {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 15px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.logOut {
+    position: absolute;
+    top: 6px;
+    left: 28px;
+    display: inline-block;
+    width: 161px;
+    height: 40px;
+}
+.vectorParent {
+    position: absolute;
+    top: 98px;
+    left: 1265px;
+    width: 143px;
+    height: 35px;
+    cursor: pointer;
+}
+.componentChild {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: var(--color-darkslateblue);
+    display: none;
+}
+.selectSemester {
+    position: absolute;
+    top: 19px;
+    left: 14px;
+    display: inline-block;
+    width: 198px;
+    height: 47px;
+}
+.rectangleParent {
+    position: absolute;
+    top: 223px;
+    left: 123px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: var(--color-darkslateblue);
+    width: 210px;
+    height: 59px;
+    color: var(--color-white);
+}
+.componentItem {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: var(--color-whitesmoke);
+}
+.semester1 {
+    position: absolute;
+    top: 17px;
+    left: 53px;
+    display: inline-block;
+    width: 208px;
+    height: 55px;
+}
+.rectangleGroup {
+    position: absolute;
+    top: 220px;
+    left: 373px;
+    width: 210px;
+    height: 59px;
+}
+.rectangleContainer {
+    position: absolute;
+    top: 217px;
+    left: 623px;
+    width: 210px;
+    height: 59px;
+}
+.rectangleDiv {
+    position: absolute;
+    top: 217px;
+    left: 876px;
+    width: 210px;
+    height: 59px;
+}
+.rectangleParent1 {
+    position: absolute;
+    top: 220px;
+    left: 1121px;
+    width: 210px;
+    height: 59px;
+}
+.rectangleParent2 {
+    position: absolute;
+    top: 315px;
+    left: 373px;
+    width: 210px;
+    height: 59px;
+}
+.rectangleParent3 {
+    position: absolute;
+    top: 315px;
+    left: 619px;
+    width: 210px;
+    height: 59px;
+}
+.rectangleParent4 {
+    position: absolute;
+    top: 315px;
+    left: 880px;
+    width: 210px;
+    height: 59px;
+}
+.rectangleParent5 {
+    position: absolute;
+    top: 320px;
+    left: 1121px;
+    width: 210px;
+    height: 59px;
+}
+.tableHeaderCell {
+    flex: 1;
+    position: relative;
+}
+.tableCell {
+    flex: 1;
+    border: 1px solid var(--color-silver);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-base) var(--padding-xl);
+}
+.tableRow {
+    align-self: stretch;
+    border: 1px solid var(--color-silver);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 20px;
+    color: #74747b;
+}
+.tableRow1 {
+    align-self: stretch;
+    border: 1px solid var(--color-silver);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.table {
+    position: absolute;
+    top: 417px;
+    left: 123px;
+    background-color: var(--color-white);
+    width: 1208px;
+    height: 510px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: var(--font-size-base);
+    color: var(--color-darkslategray);
+    font-family: var(--font-inter);
+}
+.back {
+    position: absolute;
+    top: 63px;
+    left: 1314px;
+    font-size: 17px;
+    font-family: var(--font-inter);
+    color: var(--color-white);
+    text-align: center;
+    display: inline-block;
+    width: 119px;
+    height: 30px;
+    cursor: pointer;
+}
+.checkresult {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    height: 983px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-black);
+    font-family: var(--font-josefin-sans);
+}
+

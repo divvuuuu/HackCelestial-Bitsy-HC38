@@ -11,6 +11,9 @@ const CollegeLogin = () => {
   const onBackTextClick = useCallback(() => {
     navigate("/");
   }, [navigate]);
+  const facultydet = useCallback(() => {
+    navigate("/FacultyDetails");
+  }, [navigate]);
 
   return (
     <form className={styles.collegeLogin}>
@@ -128,8 +131,10 @@ const CollegeLogin = () => {
       </div>
       <div className={styles.password}>Password</div>
       <div className={styles.required}>(required)</div>
-      <div className={styles.xl1}>Forgot Password?</div>
-      <Button
+      <div className={styles.xl1} >Forgot Password?</div>
+      <div onClick={facultydet}>
+
+      <Button 
         children="LOGIN"
         propFontSize="20px"
         propDisplay="unset"
@@ -141,6 +146,7 @@ const CollegeLogin = () => {
         buttonBorder="none"
         buttonFlex="unset"
       />
+      </div>
       <main className={styles.right5}>
         <RectangleComponent propTop="394px" propHeight="1024px" />
         <div className={styles.buttonGraphic}>

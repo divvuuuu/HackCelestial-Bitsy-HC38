@@ -9,6 +9,14 @@ import Option1 from "./pages/Option1";
 import CollegeLogin from "./pages/CollegeLogin";
 import StudentLogin from "./pages/StudentLogin";
 import AdministraterLogin from "./pages/AdministraterLogin";
+import MainPage from './pages/MainPage';
+import Dashboard from './pages/Dashboard';
+import Checkresult from './pages/CheckResult';
+import ResultAnalysis from './pages/ResultAnalysis';
+import FacultyDetails from './pages/FacultyDetails';
+import CheckStudentProgress from './pages/CheckStudentProgress';
+import FacultyGrap from './pages/FacultyGrap';
+import Admin from './pages/Admin';
 
 //hello
 
@@ -99,6 +107,16 @@ function App() {
       <Route path="/college-login" element={<CollegeLogin />} />
       <Route path="/student-login" element={<StudentLogin />} />
       <Route path="/administrater-login" element={<AdministraterLogin />} />
+      <Route path="/mainpage" element={<MainPage />} />
+      <Route path="/Dashboard" element={<Dashboard/>} />
+      <Route path="/CheckResult" element={<Checkresult/>} />
+      <Route path="/ResultAnalysis" element={<ResultAnalysis/>} />
+      <Route path="/FacultyDetails" element={<FacultyDetails/>} />
+      <Route path="/checkstudents" element={<CheckStudentProgress/>} />
+      <Route path="/facultygraph" element={<FacultyGrap/>} />
+      <Route path="/admin" element={<Admin/>} />
+
+
     </Routes>
     </BrowserRouter>
     
