@@ -18,9 +18,6 @@ import CheckStudentProgress from './pages/CheckStudentProgress';
 import FacultyGrap from './pages/FacultyGrap';
 import Admin from './pages/Admin';
 
-//hello
-
-
 
 // function MyComponent() {
 //   const navigate = useNavigate();
